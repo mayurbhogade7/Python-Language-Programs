@@ -1,0 +1,2 @@
+own_list = ['bike', 'ferrari', 'Gate 2021', 'bus', 'aeroplane']
+print(f"my favorite {own_list[0]} is Duke 200.\nmy favorite car is {own_list[1]}.\nmy target is to clear a {own_list[2]} exam and secured AIR 1.\nI travel by {own_list[3]} to go college.\nI never saw a {own_list[4]}.")
